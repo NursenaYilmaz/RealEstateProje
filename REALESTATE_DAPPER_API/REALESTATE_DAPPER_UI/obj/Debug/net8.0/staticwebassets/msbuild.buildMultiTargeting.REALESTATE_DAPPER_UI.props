@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\REALESTATE_DAPPER_UI.props" />
+</Project>

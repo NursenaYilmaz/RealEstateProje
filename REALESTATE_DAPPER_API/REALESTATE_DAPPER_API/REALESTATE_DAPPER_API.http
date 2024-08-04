@@ -1,0 +1,6 @@
+@REALESTATE_DAPPER_API_HostAddress = http://localhost:5047
+
+GET {{REALESTATE_DAPPER_API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
